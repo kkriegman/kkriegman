@@ -1,14 +1,15 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=boysquirt&label=hiraeths'.%20&color=700404&style=flat" </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=boysquirt&label=comrades'.%20&color=461b8c&style=flat" </p>
 <p align="center">
 
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/1887d1b4-070f-461c-8409-092961855358?width=10&height=10">
+  <img src="https://github.com/user-attachments/assets/5eca7763-32e2-489e-93c2-4b9af0219904?width=10&height=10">
+
 
 
 <h6 align="center">
-' i'll take all the blame ,
+' you'll get my attention again somehow ,
   <h6 align="center" >
-    everythings my fault. '
+    its no problem. '
     <h6 align="center">
 
    [prns page](https://en.pronouns.page/@distrustfl)  ♱  [rentry](https://rentry.co/reaves) 
