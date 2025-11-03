@@ -11,7 +11,7 @@
     everythings my fault. '
     <h6 align="center">
 
-   [prns page](https://en.pronouns.page/@distrustfl)  ♱  
+   [prns page](https://en.pronouns.page/@distrustfl)  ♱  [rentry](https://rentry.co/reaves) 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hpyymyioopnmotk09dmpgpxul&cover_image=true&theme=novatorem&show_offline=true&background_color=700404&interchange=false&bar_color=700404&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
