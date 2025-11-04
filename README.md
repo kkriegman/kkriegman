@@ -16,6 +16,3 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hpyymyioopnmotk09dmpgpxul&cover_image=true&theme=novatorem&show_offline=true&background_color=700404&interchange=false&bar_color=700404&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h6 align="center" > hi kieran i love u my broth er 
-  <h6 align="center" >
-<img src="https://i.postimg.cc/DZPh6zBq/Screenshot-2025-08-29-231748.png?width=100&height=100" >
