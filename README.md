@@ -14,5 +14,5 @@
 
    [prns page](https://en.pronouns.page/@distrustfl)  ♱  [rentry](https://rentry.co/reaves) 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hpyymyioopnmotk09dmpgpxul&cover_image=true&theme=novatorem&show_offline=false&background_color=700404&interchange=false&bar_color=700404&bar_color_cover=false)](https://github.com/kittinax/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hpyymyioopnmotk09dmpgpxul&cover_image=true&theme=novatorem&show_offline=false&background_color=700404&interchange=true&bar_color=700404&bar_color_cover=false)](https://github.com/kittinax/spotify-github-profile)
 
