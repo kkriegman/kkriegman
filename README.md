@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=boysquirt&label=comrades'.%20&color=461b8c&style=flat" </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=boysquirt&label=comrades'.%20&color=aba89f&style=flat" </p>
 <p align="center">
 
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/5eca7763-32e2-489e-93c2-4b9af0219904?width=10&height=10">
+  <img src="https://github.com/user-attachments/assets/40b828c7-1826-4d4f-9635-64dd8cd62417?width=10&height=10">
 
 
 
