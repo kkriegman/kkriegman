@@ -12,7 +12,7 @@
     its no problem. '
     <h6 align="center">
 
-   [prns page](https://en.pronouns.page/@distrustfl)  ♱  [rentry](https://rentry.co/aarmyboy) 
+   [prns page](https://en.pronouns.page/@distrustfl)  ♱  [rentry](https://rentry.co/doncic) 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hpyymyioopnmotk09dmpgpxul&cover_image=true&theme=novatorem&show_offline=false&background_color=700404&interchange=true&bar_color=700404&bar_color_cover=true)](https://github.com/kittinax/spotify-github-profile)
 
